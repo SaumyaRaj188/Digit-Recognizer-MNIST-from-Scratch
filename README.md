@@ -1,2 +1,4 @@
 # Digit-Recognizer-MNIST-from-Scratch
-Digit Recognizer AI trained on MNIST dataset using ANN Model created from scratch in vanilla python and numpy
+Digit Recognizer AI trained on MNIST dataset
+
+ANN model created using vanilla python and numpy
